@@ -1,0 +1,14 @@
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\bin\Debug\net7.0\Cribbage-Analysis.exe
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\bin\Debug\net7.0\Cribbage-Analysis.deps.json
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\bin\Debug\net7.0\Cribbage-Analysis.runtimeconfig.json
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\bin\Debug\net7.0\Cribbage-Analysis.dll
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\bin\Debug\net7.0\Cribbage-Analysis.pdb
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\Cribbage-Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\Cribbage-Analysis.AssemblyInfoInputs.cache
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\Cribbage-Analysis.AssemblyInfo.cs
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\Cribbage-Analysis.csproj.CoreCompileInputs.cache
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\Cribbage-Analysis.dll
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\refint\Cribbage-Analysis.dll
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\Cribbage-Analysis.pdb
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\Cribbage-Analysis.genruntimeconfig.cache
+C:\Users\ryans\Programming\C#_Practice\CribbageAnalysis\Cribbage-Analysis\Cribbage-Analysis\obj\Debug\net7.0\ref\Cribbage-Analysis.dll

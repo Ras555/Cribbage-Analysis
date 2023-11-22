@@ -1,0 +1,7 @@
+This file records the optimal cards to keep from
+ particular hands in two player crib as well as the
+ statistically average value to obtain from that hand (when optimized.)
+
+Average value of all hands is: NaN
+         Starting Hand         |      Optimal Hand      |    Average Value
+--------------------------------------------------------------------------------
